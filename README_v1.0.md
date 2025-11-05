@@ -52,7 +52,6 @@ Shows how to balance rhythm shifts, tone transitions, and meta-tag direction for
 ### *Thrash Redemption v1.0*
 A detailed 1980s thrash metal prompt demonstrating full structural labeling and emotional continuity across sections.  
 Includes multiple riffs, breakdowns, fry-scream cues, and a narrative redemption theme.  
-Use this example to study how precise section markers and emotional direction translate into balanced Suno output.
 
 ---
 
